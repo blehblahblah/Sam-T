@@ -5,13 +5,13 @@ Email: Samtharrington@gmail.com
 - I created the repository by creating it on the Github website, then using the desktop application I cloned it onto my harddrive. - I created the repository by creating it on the Github website, then using the desktop application I cloned it onto my harddrive. 
 
 
-##My Interests  
+## My Interests  
 - I enjoy to:  
  - cook  
  - Work out  
  - Play video games  
  - Fence  
-##Websites I Recommend  
+## Websites I Recommend  
 - [Youtube](www.youtube.com)  
  - I love to watch all sorts of videos on Youtube! I use it quite often when I have free time, it has quite an array of interesting content to browse around.  
 - [Twitch](www.twitch.com)  
